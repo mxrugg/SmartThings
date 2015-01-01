@@ -69,5 +69,5 @@ def switchHandler(event) {
 			break
 		default:
 			log.warn "Switch: State is not on or off"
-    }
+	}
 }
